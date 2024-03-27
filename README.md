@@ -23,7 +23,8 @@ Make a little web app that has 2 user interface elements (these are actually pro
     1. that found valediction is displayed in the output element.
 
 See it in action 🎬:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WH2TbnkirpQ?si=VHii07LXv0rzt-x9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![later gator demo](https://img.youtube.com/vi/WH2TbnkirpQ/0.jpg)](https://www.youtube.com/watch?v=WH2TbnkirpQ)
 
 ### Part 2
 
