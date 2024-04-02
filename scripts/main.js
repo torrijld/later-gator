@@ -30,13 +30,13 @@ input.addEventListener("keydown", (ev) => {
 
     later(input.value, (result) => {
 
-      if (result["target"] == "") {
+      if (result["target"].length == 0) {
 
         options((keys) => {
 
           for (let i = 0; i < keys.length; i++) {
             let newButton = document.createElement("button");
-            newButton.value = ys[i];
+            newButton.textContent = keys[i];
             targets.appendChild(newButton);
           }
 
